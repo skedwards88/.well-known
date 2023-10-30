@@ -24,7 +24,9 @@
     "target": {
       "namespace": "android_app",
       "package_name": "gribbles.io.github.skedwards88.twa",
-      "sha256_cert_fingerprints": ["B3:34:D1:1B:6B:EC:92:54:FC:A3:6C:70:F5:23:72:6F:4A:B1:A4:0F:6C:F8:4D:83:C2:D3:88:D2:40:A4:F4:54"]
+      "sha256_cert_fingerprints": [
+        "24:FE:2C:4F:52:32:C9:1B:D7:24:93:F7:3D:42:E6:A9:52:F9:C9:03:B6:9D:A6:39:72:F4:06:2B:64:12:52:A1"
+      ]
     }
   }
 ]
